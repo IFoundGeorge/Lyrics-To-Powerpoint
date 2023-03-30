@@ -14,7 +14,7 @@ Additionally, I will add an option to add backgrounds for your presentations,
 
 a dragable HUD to position text boxes, options to select font, size of the text, and whether the text is centered, and more.
 
-For now, the program is still in beta, but I am confident that it will meet your expectations. Please feel free to contact me if you have any questions or concerns.
+For now, the program is still in beta, but I am confident that it will meet your expectations. Please feel free to to use the Issue tab and send your problems of the program or bugs on the program that you don't know how to fix, and I would gladly help you as much as possible.
 
 Thank you for using this program.
 
