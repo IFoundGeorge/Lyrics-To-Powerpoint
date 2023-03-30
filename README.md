@@ -2,7 +2,7 @@
  
  Dear users,
 
-I would like to introduce myself as the developer of this program, Cyrus. I have created this program for the benefit of people, especially for worship teams who struggle to create PowerPoint presentations. 
+I would like to introduce myself as the director of this program, Cyrus. I have created this program using chatgpt for the benefit of people, especially for worship teams who struggle to create PowerPoint presentations. 
 
 This program makes it easy to create lyrics for your PowerPoint presentations with just one click.
 
@@ -19,4 +19,4 @@ For now, the program is still in beta, but I am confident that it will meet your
 Thank you for using this program.
 
 Best regards,
-Developer Cyrus.
+Director Cyrus.
