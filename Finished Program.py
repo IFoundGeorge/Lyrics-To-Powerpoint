@@ -77,7 +77,7 @@ def create_powerpoint(lyrics):
         p.font.size = Pt(60)
         p.font.bold = False
         p.alignment = pptx.enum.text.PP_ALIGN.CENTER
-        p.vertical_anchor = MSO_ANCHOR.MIDDLE
+        p.vertical_anchor = "middle"
         p.word_wrap = True
 
         # Add the second sentence to the text box
@@ -87,7 +87,7 @@ def create_powerpoint(lyrics):
             p2.font.size = Pt(60)
             p2.font.bold = False
             p2.alignment = pptx.enum.text.PP_ALIGN.CENTER
-            p2.vertical_anchor = MSO_ANCHOR.MIDDLE
+            p2.vertical_anchor = "middle"
             p2.word_wrap = True
             if p.font.size == Pt(60) and not p.font.bold:
                 p2.font.size = Pt(60)
